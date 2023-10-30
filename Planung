@@ -27,6 +27,15 @@ Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkei
 1.3 Testfälle
 TC-№	Vorbereitung (givenEingabe (when)	Erwartete Ausgabe (then)
 1.1			
+
+Eingabe:
+1. Leicht
+4. Lösungswort
+
+Ausgabe:
+2. Zufälliges Wort
+3. Ausgabe von vier Wörtern
+5. Anteil richtige Antworten
 ...
 
 Jede Anforderung hat mindestens einen dazugehörigen Testfall. Der erste Testfall, der zur Anforderung mit der Nummer 1 gehört, hat die Nummer 1.1, der zweite Testfall, der zur Anforderung 1 gehört, die 1.2; der erste Testfall zur Anforderung 2 die 2.1 und so weiter. </span>
