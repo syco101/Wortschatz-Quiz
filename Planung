@@ -6,6 +6,7 @@ Projekt-Dokumentation
 Stellen, an welchen Sie etwas ausfüllen müssen, beginnen mit ✍️. Wenn Sie die nötige Information eingetragen haben, können Sie ✍️ entfernen.</span>
 
 ✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen
+Gruppenname: Gruppe 7    Nachnamen: Gerej, Schwyn, Aksic
 
 Datum	Version	Zusammenfassung
 0.0.1	✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und erklären in einem griffigen Satz, was Sie an dem Tag erreicht haben. Diese Stelle gibt Ihnen und Ihrer Lehrperson eine einfache Möglichkeit, sich eine Übersicht über Ihr Projekt zu verschaffen.
@@ -21,9 +22,15 @@ Ein Wortschatzquiz, welches den Wortschatz in der deutschen Sprache auf die Prob
 1			
 ...			
 Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
+1. Programm bietet 4 Antwortmöglichkeiten
+2.Level-System
+3. Worterkennung
+4. Schwierigkeitsstufen
+5. Fortschrittverfolgung  
+
 
 1.3 Testfälle
-TC-№	Vorbereitung (given)	Eingabe (when)	Erwartete Ausgabe (then)
+TC-№	Vorbereitung (givenEingabe (when)	Erwartete Ausgabe (then)
 1.1			
 ...			
 Jede Anforderung hat mindestens einen dazugehörigen Testfall. Der erste Testfall, der zur Anforderung mit der Nummer 1 gehört, hat die Nummer 1.1, der zweite Testfall, der zur Anforderung 1 gehört, die 1.2; der erste Testfall zur Anforderung 2 die 2.1 und so weiter. </span>
@@ -36,6 +43,7 @@ AP-№	Frist	Zuständig	Beschreibung
 1.A			
 ...			
 ✍️ Total: bspw. 26 Arbeitspakete
+Total
 
 Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Frist bedeutet, wann das AP abgeschlossen sein muss; Zuständig bezeichnet die (haupt-)verantwortliche Person.</span>
 
