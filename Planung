@@ -46,9 +46,9 @@ AP-№	Frist	Zuständig	Beschreibung
 Total
 
 Arbeitspakete
--[ ] Anton: 
--[ ] David:
--[ ] Sebastian:
+- [ ] Anton: 
+- [ ] David:
+- [ ] Sebastian:
 
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc. </span>
 
