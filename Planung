@@ -1,9 +1,8 @@
--
+
 
 Projekt-Dokumentation
-☝️ Alle Text-Stellen, welche hell-blau hinterlegt sind, dienen nur Ihrer Information. Sie können sie löschen, sobald Sie sie gelesen haben. </span>
 
-Stellen, an welchen Sie etwas ausfüllen müssen, beginnen mit ✍️. Wenn Sie die nötige Information eingetragen haben, können Sie ✍️ entfernen.</span>
+
 
 ✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen
 Gruppenname: Gruppe 7    Nachnamen: Gerej, Schwyn, Aksic
@@ -18,7 +17,7 @@ Datum	Version	Zusammenfassung
 Ein Wortschatzquiz, welches den Wortschatz in der deutschen Sprache auf die Probe stellt.
 
 1.2 Anforderungen
-№	Verbindlichkeit	Typ	Beschreibung
+Verbindlichkeit	Typ	Beschreibung
 1			
 ...			
 Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
@@ -38,14 +37,16 @@ Jede Anforderung hat mindestens einen dazugehörigen Testfall. Der erste Testfal
 1.4 Diagramme
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
+
+
 2 Planen
 AP-№	Frist	Zuständig	Beschreibung
 1.A			
 ...			
 ✍️ Total: bspw. 26 Arbeitspakete
-Total
 
-Arbeitspakete
+
+Arbeitspakete 30.10.23
 Anton: 
 - [ ] PAP erstellen
 - [ ] Github Plannung
@@ -61,7 +62,20 @@ Sebastian:
 Alle:
 - [ ] evt. programmieren
 
-Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc. </span>
+Arbeitspakete 6.11.23
+Anton:
+- [ ]
+- [ ]
+
+David:
+- [ ]
+- [ ]
+
+Sebastian:
+- [ ]
+- [ ]
+
+Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc. 
 
 3 Entscheiden
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
