@@ -46,9 +46,15 @@ AP-№	Frist	Zuständig	Beschreibung
 Total
 
 Arbeitspakete
-- [ ] Anton: PAP erstellen
-- [ ] David: Programmieren
-- [ ] Sebastian: Github Plannung und programmieren
+Anton: 
+- [ ] PAP erstellen
+
+David:
+- [ ] Ideen für Projetk sammeln
+
+Sebastian:
+- [ ] Github Plannung 
+
 
 Die Arbeitspakete sind wie die Testfälle nummeriert; aber gebrauchen A, B, C, ... statt 1, 2, 3.... Das erste Arbeitspaket zur Anforderung 1 ist also 1.A, das zweite 1.B etc. </span>
 
